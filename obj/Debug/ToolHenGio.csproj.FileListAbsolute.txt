@@ -1,0 +1,10 @@
+D:\LapTrinhC++\Tool Tu Lam\ToolHenGio\bin\Debug\ToolHenGio.exe.config
+D:\LapTrinhC++\Tool Tu Lam\ToolHenGio\bin\Debug\ToolHenGio.exe
+D:\LapTrinhC++\Tool Tu Lam\ToolHenGio\bin\Debug\ToolHenGio.pdb
+D:\LapTrinhC++\Tool Tu Lam\ToolHenGio\obj\Debug\ToolHenGio.csproj.AssemblyReference.cache
+D:\LapTrinhC++\Tool Tu Lam\ToolHenGio\obj\Debug\ToolHenGio.Form1.resources
+D:\LapTrinhC++\Tool Tu Lam\ToolHenGio\obj\Debug\ToolHenGio.Properties.Resources.resources
+D:\LapTrinhC++\Tool Tu Lam\ToolHenGio\obj\Debug\ToolHenGio.csproj.GenerateResource.cache
+D:\LapTrinhC++\Tool Tu Lam\ToolHenGio\obj\Debug\ToolHenGio.csproj.CoreCompileInputs.cache
+D:\LapTrinhC++\Tool Tu Lam\ToolHenGio\obj\Debug\ToolHenGio.exe
+D:\LapTrinhC++\Tool Tu Lam\ToolHenGio\obj\Debug\ToolHenGio.pdb
