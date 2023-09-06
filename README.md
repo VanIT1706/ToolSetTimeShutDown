@@ -7,6 +7,6 @@ Ví dụ: muốn máy tính mình tắt trong 5p, thì sau 5p máy sẽ tự đ�
 B1: Chọn thời gian mình muốn máy tắt hoặc khởi động lại.
 B2: Click vào nút "shutdown" hoặc "restart".
 B3: Nếu bấm nhầm 1 trong hai nút thì có thể click vào nút "Hủy lệnh" để hủy lệnh shutdown hoặc restart vừa chọn.
-B3: Click thoát để thoát chương trình.
+B4: Click "Thoát" để thoát chương trình.
 
 
